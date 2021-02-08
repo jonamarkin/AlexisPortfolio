@@ -83,11 +83,11 @@ $(document).ready(function() {
         typed.typed({
             strings: [
                 "Cyril Alexis Otabil.",
-                " a Graphic Designer.",
-                "a Videographer.",
-                "a Freelancer.",
+                " a Youth Advocate.",
+                "a Graphic Designer.",
+
                 "a Photographer",
-                "a Youth Advocate",
+                "a Social Media Strategist",
             ],
             typeSpeed: 100,
             loop: true,
